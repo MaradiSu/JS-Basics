@@ -1,3 +1,3 @@
 alert('Hi');
 
-console.log('loaded');
+console.log('sucessfully');
